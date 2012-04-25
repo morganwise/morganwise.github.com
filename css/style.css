@@ -77,7 +77,7 @@ h6 {
 
 /* page setup */
 body {
-    background:#080808 url(../images/page_bg.jpg) repeat;
+    background:#080808/* url(../images/page_bg.jpg) repeat */;
 	color:#666;
     font-size:13px;
     line-height:170%;
